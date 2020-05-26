@@ -1,0 +1,39 @@
+div .col-xs-3{
+    padding:50px;
+}
+
+.inner{
+    margin:0px,50px,0px,50px;
+}
+
+div .columns{
+    column-count: 3;
+}
+.description{
+    text-align:center;
+}
+
+.columns{
+    border: 7px dashed Gray;
+    background-color:Gainsboro;
+    
+}
+
+body{
+    color:Gray;
+    text-align:center;
+}
+
+
+.alpha{
+    text-align:left;
+    margin:10px;
+    padding:20px;
+    border: 7px dashed Gray;
+    background-color:Gainsboro;
+}
+
+iframe{
+    width:500px;
+    height:500px;
+}
